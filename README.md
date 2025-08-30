@@ -1,0 +1,1 @@
+Contributed to projects at SENAI Lab involving Independent Component Analysis (ICA), Overcomplete ICA, Dictionary Learning and Multivariate Dictionary Learning Algorithms. Worked with the Brain TreeBank gammatone dataset to implement source separation techniques, analyze auditory data, and build efficient computational pipelines for signal processing tasks.
